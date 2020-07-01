@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+        padding: 0;
+        text-align: center;
+}
+
+h1 {
+        font-family: 'Consolas';
+        padding: .Sem;
+        color: white;
+        background-color: #43853d;
+}
+
+a {
+        background-color: #43853d;
+        padding: 10px 15px;
+        color: #ffffff;
+        text-decoration: none;
+        font-family: Verdana;
+        border-radius: 10px;
+}
